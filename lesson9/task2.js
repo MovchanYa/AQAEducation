@@ -1,8 +1,8 @@
 const book = {
-    title: "the Title",
-    author: "the Author",
-    year: 2020
-}
+	title: 'the Title',
+	author: 'the Author',
+	year: 2020,
+};
 
 const { title, author, year } = book;
 

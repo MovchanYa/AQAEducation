@@ -4,7 +4,7 @@ let active;
 let aNull;
 let anUndefined;
 
-justText = "Hello, World!";
+justText = 'Hello, World!';
 testNumber = 42;
 active = true;
 aNull = null;
